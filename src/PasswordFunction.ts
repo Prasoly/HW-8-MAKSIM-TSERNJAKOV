@@ -27,3 +27,4 @@ export function calculatePasswordStrength(password: string): string {
 
     return "Very Weak";
 }
+
